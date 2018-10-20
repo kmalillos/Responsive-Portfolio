@@ -161,9 +161,9 @@ body {
   }
   
   .work img {
-    width: 100%;
-    border: 0 none;
-    opacity: 0.8;
+    height: 180px;
+    width: 274px;
+    border: 1px solid #777;
   }
   
   .work h3 {
